@@ -2,4 +2,3 @@ aepfel
 birnen
 bier
 leberkäse
-salat
