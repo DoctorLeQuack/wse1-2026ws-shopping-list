@@ -6,9 +6,4 @@ tomaten
 gurkerl
 parika
 salat
-
-+   +  ++++++
-+   +  +
-+++++  ++++++
-+   +  +
-+   +  ++++++
+vanillekipferl
