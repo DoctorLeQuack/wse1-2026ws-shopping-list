@@ -7,3 +7,4 @@ gurkerl
 parika
 salat
 vanillekipferl
+Bananen
