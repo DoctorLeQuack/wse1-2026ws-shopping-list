@@ -8,3 +8,4 @@ parika
 salat
 vanillekipferl
 Bananen
+schoki
